@@ -1,6 +1,6 @@
 <!--💬 GREETING BANNER MATRIX -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&color=00FF41&height=67&duration=3000&center=true&lines=Hello+World+I'm+Ela!+🐾;Data+Analyst+Student;Coder;Tech+%F0%9F%8C%B1">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&color=00FF41&height=67&duration=3000&center=true&lines=Hello+World+I'm+Ela!;Data+Analyst+Student;Coder;Tech+%F0%9F%8C%B1">
 </p>
 
 <!--🖼️ GIF VIBE -->
@@ -12,7 +12,7 @@
 
 ela@matrix-node:~$ cat whoami.py
 class WhoAmI:
-    user = "Ela 🐾"
+    user = "Ela "
     current_edu = "CFT Duoc UC 💻"
     currently_learning = ["Python", "Machine Learning", "LLMs", "English"]
     fun_fact = "We might be living in a simulation 🌌"
