@@ -46,11 +46,10 @@ ela@matrix-node:~$ ./fetch_github_stats.sh --user=Ela04
 ```bash
 
 ela@matrix-node:~$ list --category=tech-stack
-💻 Programming Languages
-🧠 ML / DL
-🐧 Operating Systems
-🗄️ Databases & Cloud Hosting
-🛠️ Software & Tools
+💻 Programming Languages/ Python/ Javascript/
+🧠 ML / DL/
+🐧 Operating Systems/ Linux-Ubuntu-Kali/ Windows/ MacOs/
+🗄️ Databases & Cloud Hosting/ SQL/ Django/
 
 ela@matrix-node:~$ ./connect_socials.sh
 ```
