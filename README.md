@@ -13,13 +13,13 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
 </p>
 
-## 💚Who am I?
+# Hi there, I'm Ela 👋 🐾
 
 ```python
 class WhoAmI:
     user = "Ela 🐾"
-    current_edu = "CFT Duoc UC 💻"
-    currently_learning = ["Python", "Maching-Learning", "Karate", "English"]
+    current_edu = "Duoc UC 💻"
+    currently_learning = ["Python", "Machine Learning", "LLMs", "English"]
     fun_fact = "We might be living in a simulation 🌌"
 
     hobbies = [
@@ -28,14 +28,11 @@ class WhoAmI:
         "Gardening and bonding with my plants 🌱"
     ]
 
-    def get_city():
-        return "Somewhere between reality and imagination 🌍🌀"
-
-    def ambitions():
+    def ambitions(self):
         return [
             "Travel the world with a backpack and big dreams 🌍",
-            "Become a badass programmer 🧠💪",
-            "If you can imaginate, you can create it 😊",
+            "Become an AI & Software Engineer 🧠💪",
+            "If you can imagine it, you can create it 😊"
         ]
 
 ```
