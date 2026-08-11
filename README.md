@@ -1,6 +1,6 @@
 <!--💬 GREETING -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&color=00FF41&height=67&duration=3000&center=true&lines=Hello+World+I'm+Ela!+🐾;Data+Analyst+Student;Coder;Anime;Tech+%F0%9F%8C%B1">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&color=00FF41&height=67&duration=3000&center=true&lines=Hello+World+I'm+Ela!+🐾;Data+Analyst+Student;Coder;Tech+%F0%9F%8C%B1">
 </p>
 
 <!--🖼️ GIF VIBE -->
