@@ -1,7 +1,7 @@
 <!-- Paleta (foto de perfil): #13170F fondo · #283919 · #465D2D · #88AB50 · #B9DA71 · #EDFA9C -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3500&pause=1200&color=B9DA71&center=true&vCenter=true&width=520&lines=+Hello%2C+World!+;Ingenier%C3%ADa+en+Inform%C3%A1tica+%C2%B7+Datos+%C2%B7+Full-stack" alt="Hola, soy Ela" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3500&pause=1200&color=B9DA71&center=true&vCenter=true&width=640&lines=+Hello%2C+World!+;Ingenier%C3%ADa+en+Inform%C3%A1tica+%C2%B7+Datos+%C2%B7+Full-stack" alt="Hola, soy Ela" />
 </p>
 
 <p align="center">
