@@ -1,4 +1,4 @@
-name: Generate Snake Matrix Game
+name: Generate Galaga contribution graph
 
 on:
   # Se ejecuta automáticamente cada medianoche
@@ -16,21 +16,19 @@ jobs:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 20
 
     steps:
-      # Genera la animación SVG de la serpiente
-      - name: generate-github-user-contribution-grid-snake-svg
-        uses: Platane/snk/svg-only@v3
+      # Genera el SVG de Galaga (versiones clara y oscura) a partir de las contribuciones
+      - name: generate galaga contribution graph
+        uses: abozanona/pacman-contribution-graph@v5.0.0
         with:
-          github_user_name: Ela04
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake-ela.svg?color_snake=#EDFA9C&color_dots=#182012,#283919,#465D2D,#88AB50,#B9DA71&color_dot_border=#13170F
+          github_user_name: ${{ github.repository_owner }}
+          games: "galaga"
+          hide_month_labels: "false"
 
       # Sube los archivos generados a la rama 'output'
-      - name: push github-contribution-grid-snake.svg to the output branch
+      - name: push SVGs to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output

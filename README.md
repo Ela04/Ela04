@@ -27,11 +27,11 @@
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/88AB50/Ela04" alt="Calendario de contribuciones de Ela04" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ela04/Ela04/output/github-contribution-grid-snake-ela.svg" alt="Serpiente de contribuciones" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ela04/Ela04/output/galaga-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ela04/Ela04/output/galaga-contribution-graph.svg">
+    <img alt="Galaga jugando con mis contribuciones" src="https://raw.githubusercontent.com/Ela04/Ela04/output/galaga-contribution-graph.svg">
+  </picture>
 </p>
 
 <p align="center">
