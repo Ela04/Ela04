@@ -1,64 +1,41 @@
-<!--💬 GREETING BANNER MATRIX -->
+<!-- Paleta (foto de perfil): #13170F fondo · #283919 · #465D2D · #88AB50 · #B9DA71 · #EDFA9C -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&color=00FF41&height=67&duration=3000&center=true&lines=Hello+World+I'm+Ela!;Data+Analyst+Student;Coder;Tech+%F0%9F%8C%B1">
-</p>
-
-<!--🖼️ GIF VIBE -->
-<p align="center">
-  <img src="https://c.tenor.com/p7IgwS17V0sAAAAC/rtj-rick-and-morty.gif" height="240" width="370">
-</p>
-
-```bash
-
-ela@matrix-node:~$ cat whoami.py
-class WhoAmI:
-    user = "Ela "
-    current_edu = "CFT Duoc UC 💻"
-    currently_learning = ["Python", "Machine Learning", "LLMs", "English"]
-    fun_fact = "We might be living in a simulation 🌌"
-
-    hobbies = [
-        "Watching anime and K-dramas 🎌",
-        "Taking things apart to see how they work 🔧",
-        "Gardening and bonding with my plants 🌱"
-    ]
-
-    def get_city(self):
-        return "Somewhere between reality and imagination 🌍🌀"
-
-    def ambitions(self):
-        return [
-            "Travel the world with a backpack and big dreams 🌍",
-            "Become an AI & Software Engineer 🧠💪",
-            "If you can imagine it, you can create it 😊"
-        ]
-
-ela@matrix-node:~$ ./fetch_github_stats.sh --user=Ela04
-```
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ela04&theme=matrix&hide_border=true&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&background=000000" alt="Ela's GitHub Streak" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3500&pause=1200&color=B9DA71&center=true&vCenter=true&width=520&lines=+Hello%2C+World!+;Ingenier%C3%ADa+en+Inform%C3%A1tica+%C2%B7+Datos+%C2%B7+Full-stack" alt="Hola, soy Ela" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ela04/Ela04/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation Matrix" />
+  Estudiante de último año de Ingeniería en Informática y Analista Programador (Duoc UC).<br>
+  Desarrollo web y móvil, bases de datos, automatización en la nube y ciencia de datos.
 </p>
 
-```bash
-
-ela@matrix-node:~$ list --category=tech-stack
-💻 Programming Languages/ Python/ Javascript/
-🧠 ML / DL/
-🐧 Operating Systems/ Linux-Ubuntu-Kali/ Windows/ MacOs/
-🗄️ Databases & Cloud Hosting/ SQL/ Django/
-
-ela@matrix-node:~$ ./connect_socials.sh
-```
-<p align="left">
-	<a href="https://www.linkedin.com/in/ela48/">
-		<img alt="Linkedin" title="Ela Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-	<a href="https://www.instagram.com/ela04_at/">
-		<img alt="Instagram" title="Ela Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-	<a href="mailto:ga.antunez@duocuc.cl">
-		<img alt="Gmail" title="Jaydeep Yadav Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-13170F?style=flat-square&logo=python&logoColor=B9DA71" alt="Python" />
+  <img src="https://img.shields.io/badge/Django-13170F?style=flat-square&logo=django&logoColor=B9DA71" alt="Django" />
+  <img src="https://img.shields.io/badge/TypeScript-13170F?style=flat-square&logo=typescript&logoColor=B9DA71" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Angular-13170F?style=flat-square&logo=angular&logoColor=B9DA71" alt="Angular" />
+  <img src="https://img.shields.io/badge/React_Native-13170F?style=flat-square&logo=react&logoColor=B9DA71" alt="React Native" />
+  <img src="https://img.shields.io/badge/PostgreSQL-13170F?style=flat-square&logo=postgresql&logoColor=B9DA71" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Google_Cloud-13170F?style=flat-square&logo=googlecloud&logoColor=B9DA71" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/pandas-13170F?style=flat-square&logo=pandas&logoColor=B9DA71" alt="pandas" />
+  <img src="https://img.shields.io/badge/scikit--learn-13170F?style=flat-square&logo=scikitlearn&logoColor=B9DA71" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/PyTorch-13170F?style=flat-square&logo=pytorch&logoColor=B9DA71" alt="PyTorch" />
 </p>
-<p align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"></p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ela04&hide_border=true&background=13170F&stroke=283919&ring=B9DA71&fire=EDFA9C&currStreakNum=EDFA9C&sideNums=B9DA71&currStreakLabel=B9DA71&sideLabels=88AB50&dates=465D2D" alt="Racha de contribuciones de Ela04" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/88AB50/Ela04" alt="Calendario de contribuciones de Ela04" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ela04/Ela04/output/github-contribution-grid-snake-ela.svg" alt="Serpiente de contribuciones" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ela48/"><img src="https://img.shields.io/badge/LinkedIn-13170F?style=flat-square&logo=linkedin&logoColor=EDFA9C" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/ela04_at/"><img src="https://img.shields.io/badge/Instagram-13170F?style=flat-square&logo=instagram&logoColor=EDFA9C" alt="Instagram" /></a>
+  <a href="mailto:ga.antunez@duocuc.cl"><img src="https://img.shields.io/badge/Email-13170F?style=flat-square&logo=gmail&logoColor=EDFA9C" alt="Email" /></a>
+</p>
